@@ -15,7 +15,7 @@ Activities for Applied Physics 187: Photonics and Applied Optics
 * Act_2.ipynb : familiarization with properties of light sources
 * Act2.pdf : documentation of activity 2
 
-* Act_4(187).ipynb : renderinng color
+* Act_4(187).ipynb : rendering color
 * Act_4(187)v2.pdf : documentation of activity 4
 
 * Act_6(187).ipynb : color matching functions from rgb to xyz
